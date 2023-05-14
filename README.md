@@ -2,7 +2,7 @@
 
 As a group of three, over a two-week period, we built a full-stack web and mobile application with CRUD functionality, using the MERN stack. Our project was a travel planning site that let users view a list of countries, select a country and then create an itinerary from the listed activities. Users can also add additional activities and update any activities that they previously added, as well as remove an activity from their itinerary.
 
-This repo contains code for the back end client api only. Code for the back end api can be found [here](https://github.com/kpetersen04/Travel-API).
+This repo contains code for the front end client only. Code for the back end api can be found [here](https://github.com/kpetersen04/Travel-API).
 
 Check out the live [Design My Trip](https://designmytrip.netlify.app) site.
 
